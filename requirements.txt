@@ -1,0 +1,8 @@
+streamlit 
+watchdog
+pillow
+google-generativeai
+langchain-google-genai
+pillow
+tqdm
+python-dotenv
